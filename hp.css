@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(255, 7, 7);
+}
+
+.header img {
+    width: 100px;
+    height: 90px;
+}
+
+span.korea {
+    display: inline-block;
+    margin-left: 40%;
+    font-size: 16px;
+
+    
+}
+
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.son {
+    display: block;
+    height: 100px;
+    margin-bottom: 10px;
+    width: 200px;
+
+
+}
+
+
+
+
+

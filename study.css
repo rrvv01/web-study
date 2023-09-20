@@ -1,0 +1,26 @@
+.content span {
+  color: white;
+  background-color: blue;
+}
+
+span {
+  width: 100px;
+  height: 100px;
+  
+}
+
+span.block{
+  display: block;
+}
+
+span.Inline {
+  display: inline;
+}
+
+span.Inline-Block {
+  display: inline-block;
+}
+
+span.none {
+  display: none;
+}
